@@ -90,9 +90,6 @@ class Node:
 
         if self.col < self.total_rows - 1 and not grid[self.row][self.col + 1].is_barrier(): # RIGHT
             self.neighbors.append(grid[self.row][self.col + 1])
-
-    def __lt__(self, other) -> bool:
-        return False
     
 # Heuristic function to calculate the Manhattan distance between two given points
 def h(p1, p2) -> int:
