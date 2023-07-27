@@ -1,2 +1,3 @@
 # Algorithm Pathfinder
-Uses various graph algorithms to find paths between points in a user-defined maze
+
+Uses the A\* algorithm to find the quickest path between two points in a user-defined maze
