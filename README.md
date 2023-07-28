@@ -1,7 +1,8 @@
 # Algorithm Pathfinder
 
-This is an application that finds the optimal path between two user-defined points in a grid using the **A\* search algorithm**.
-![image_example](img.png)
+This is an application that finds the optimal path between two given points in a user-defined grid using the **A\* search algorithm**.
+
+<img src="img.png" alt="application_example" width="500"/>
 
 To learn more about how the algorithm works, click [here](https://brilliant.org/wiki/a-star-search/).
 
